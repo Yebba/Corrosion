@@ -1,6 +1,8 @@
-  In this folder are the raw files downloaded from Supervise.ly, the image annotation software used. On Supervise.ly, images added at the same time are considered a dataset. There are three folders because pictures were added at three different times. 
+  In this folder are the raw files downloaded from Supervise.ly, the image annotation software used. On Supervise.ly, images added 
+at the same time are considered a dataset. There are three folders because pictures were added at three different times. 
 
-  Each folder is named with the number of images labeled inside of it ("Corrosion 7" means that there are seven labeled images in the folder). Each folder contains 
+  Each folder is named with the number of images labeled inside of it ("Corrosion 7" means that there are seven labeled images in the 
+folder). Each folder contains: 
     1. a subfolder
     2. a meta.json file
     3. a obj_class_to_machine_color.json file. 
