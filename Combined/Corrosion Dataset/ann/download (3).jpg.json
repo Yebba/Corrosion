@@ -1,0 +1,642 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 185,
+        "width": 258
+    },
+    "objects": [
+        {
+            "id": 447757711,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "bgarrisn",
+            "createdAt": "2020-05-18T21:53:04.526Z",
+            "updatedAt": "2020-05-18T21:55:18.210Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        182,
+                        30
+                    ],
+                    [
+                        193,
+                        25
+                    ],
+                    [
+                        200,
+                        23
+                    ],
+                    [
+                        205,
+                        23
+                    ],
+                    [
+                        206,
+                        26
+                    ],
+                    [
+                        210,
+                        23
+                    ],
+                    [
+                        213,
+                        21
+                    ],
+                    [
+                        218,
+                        20
+                    ],
+                    [
+                        218,
+                        24
+                    ],
+                    [
+                        215,
+                        28
+                    ],
+                    [
+                        207,
+                        29
+                    ],
+                    [
+                        208,
+                        36
+                    ],
+                    [
+                        200,
+                        37
+                    ],
+                    [
+                        194,
+                        38
+                    ],
+                    [
+                        191,
+                        42
+                    ],
+                    [
+                        185,
+                        41
+                    ],
+                    [
+                        180,
+                        43
+                    ],
+                    [
+                        178,
+                        38
+                    ],
+                    [
+                        179,
+                        32
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 447757714,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "bgarrisn",
+            "createdAt": "2020-05-18T21:53:20.901Z",
+            "updatedAt": "2020-05-18T21:55:18.210Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        178,
+                        35
+                    ],
+                    [
+                        171,
+                        40
+                    ],
+                    [
+                        174,
+                        45
+                    ],
+                    [
+                        170,
+                        50
+                    ],
+                    [
+                        164,
+                        53
+                    ],
+                    [
+                        155,
+                        56
+                    ],
+                    [
+                        150,
+                        61
+                    ],
+                    [
+                        145,
+                        62
+                    ],
+                    [
+                        139,
+                        65
+                    ],
+                    [
+                        125,
+                        72
+                    ],
+                    [
+                        121,
+                        74
+                    ],
+                    [
+                        116,
+                        72
+                    ],
+                    [
+                        113,
+                        72
+                    ],
+                    [
+                        115,
+                        69
+                    ],
+                    [
+                        121,
+                        65
+                    ],
+                    [
+                        129,
+                        60
+                    ],
+                    [
+                        139,
+                        51
+                    ],
+                    [
+                        153,
+                        45
+                    ],
+                    [
+                        161,
+                        40
+                    ],
+                    [
+                        169,
+                        37
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 447757717,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "bgarrisn",
+            "createdAt": "2020-05-18T21:53:38.160Z",
+            "updatedAt": "2020-05-18T21:55:18.210Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        35,
+                        111
+                    ],
+                    [
+                        38,
+                        106
+                    ],
+                    [
+                        44,
+                        105
+                    ],
+                    [
+                        44,
+                        111
+                    ],
+                    [
+                        45,
+                        119
+                    ],
+                    [
+                        41,
+                        124
+                    ],
+                    [
+                        36,
+                        127
+                    ],
+                    [
+                        35,
+                        123
+                    ],
+                    [
+                        35,
+                        118
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 447757721,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "bgarrisn",
+            "createdAt": "2020-05-18T21:53:47.880Z",
+            "updatedAt": "2020-05-18T21:55:18.210Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        84,
+                        90
+                    ],
+                    [
+                        88,
+                        87
+                    ],
+                    [
+                        93,
+                        84
+                    ],
+                    [
+                        99,
+                        79
+                    ],
+                    [
+                        99,
+                        85
+                    ],
+                    [
+                        100,
+                        89
+                    ],
+                    [
+                        97,
+                        91
+                    ],
+                    [
+                        91,
+                        94
+                    ],
+                    [
+                        88,
+                        92
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 447757726,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "bgarrisn",
+            "createdAt": "2020-05-18T21:53:57.378Z",
+            "updatedAt": "2020-05-18T21:55:18.210Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        39,
+                        132
+                    ],
+                    [
+                        36,
+                        129
+                    ],
+                    [
+                        39,
+                        128
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 447757730,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "bgarrisn",
+            "createdAt": "2020-05-18T21:54:05.683Z",
+            "updatedAt": "2020-05-18T21:55:18.210Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        205,
+                        68
+                    ],
+                    [
+                        212,
+                        80
+                    ],
+                    [
+                        216,
+                        91
+                    ],
+                    [
+                        222,
+                        102
+                    ],
+                    [
+                        227,
+                        113
+                    ],
+                    [
+                        231,
+                        120
+                    ],
+                    [
+                        233,
+                        128
+                    ],
+                    [
+                        238,
+                        136
+                    ],
+                    [
+                        246,
+                        147
+                    ],
+                    [
+                        252,
+                        158
+                    ],
+                    [
+                        256,
+                        166
+                    ],
+                    [
+                        256,
+                        158
+                    ],
+                    [
+                        255,
+                        143
+                    ],
+                    [
+                        245,
+                        129
+                    ],
+                    [
+                        239,
+                        118
+                    ],
+                    [
+                        235,
+                        103
+                    ],
+                    [
+                        224,
+                        93
+                    ],
+                    [
+                        219,
+                        83
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 447757734,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "bgarrisn",
+            "createdAt": "2020-05-18T21:54:29.975Z",
+            "updatedAt": "2020-05-18T21:55:18.210Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        102,
+                        120
+                    ],
+                    [
+                        107,
+                        133
+                    ],
+                    [
+                        115,
+                        148
+                    ],
+                    [
+                        123,
+                        169
+                    ],
+                    [
+                        130,
+                        178
+                    ],
+                    [
+                        131,
+                        184
+                    ],
+                    [
+                        128,
+                        182
+                    ],
+                    [
+                        117,
+                        162
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 447757735,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "bgarrisn",
+            "createdAt": "2020-05-18T21:54:41.744Z",
+            "updatedAt": "2020-05-18T21:55:18.210Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        120,
+                        139
+                    ],
+                    [
+                        125,
+                        147
+                    ],
+                    [
+                        120,
+                        144
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 447757736,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "bgarrisn",
+            "createdAt": "2020-05-18T21:54:50.087Z",
+            "updatedAt": "2020-05-18T21:55:18.210Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        251,
+                        108
+                    ],
+                    [
+                        248,
+                        114
+                    ],
+                    [
+                        253,
+                        124
+                    ],
+                    [
+                        256,
+                        134
+                    ],
+                    [
+                        250,
+                        127
+                    ],
+                    [
+                        244,
+                        117
+                    ],
+                    [
+                        243,
+                        113
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 447757738,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "bgarrisn",
+            "createdAt": "2020-05-18T21:55:05.890Z",
+            "updatedAt": "2020-05-18T21:55:18.210Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        1,
+                        177
+                    ],
+                    [
+                        7,
+                        171
+                    ],
+                    [
+                        15,
+                        164
+                    ],
+                    [
+                        23,
+                        156
+                    ],
+                    [
+                        26,
+                        161
+                    ],
+                    [
+                        28,
+                        168
+                    ],
+                    [
+                        22,
+                        172
+                    ],
+                    [
+                        15,
+                        171
+                    ],
+                    [
+                        10,
+                        177
+                    ],
+                    [
+                        4,
+                        181
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 447757742,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "bgarrisn",
+            "createdAt": "2020-05-18T21:55:17.950Z",
+            "updatedAt": "2020-05-18T21:55:24.589Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        40,
+                        137
+                    ],
+                    [
+                        46,
+                        135
+                    ],
+                    [
+                        53,
+                        130
+                    ],
+                    [
+                        58,
+                        127
+                    ],
+                    [
+                        67,
+                        119
+                    ],
+                    [
+                        61,
+                        119
+                    ],
+                    [
+                        50,
+                        125
+                    ],
+                    [
+                        45,
+                        130
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

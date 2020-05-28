@@ -1,0 +1,3530 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 437,
+        "width": 584
+    },
+    "objects": [
+        {
+            "id": 446758131,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T15:58:11.004Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        65,
+                        372
+                    ],
+                    [
+                        77,
+                        387
+                    ],
+                    [
+                        94,
+                        388
+                    ],
+                    [
+                        116,
+                        382
+                    ],
+                    [
+                        111,
+                        375
+                    ],
+                    [
+                        98,
+                        373
+                    ],
+                    [
+                        87,
+                        368
+                    ],
+                    [
+                        73,
+                        363
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758136,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T15:58:22.428Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        63,
+                        86
+                    ],
+                    [
+                        68,
+                        96
+                    ],
+                    [
+                        74,
+                        101
+                    ],
+                    [
+                        81,
+                        109
+                    ],
+                    [
+                        90,
+                        115
+                    ],
+                    [
+                        86,
+                        122
+                    ],
+                    [
+                        80,
+                        119
+                    ],
+                    [
+                        69,
+                        128
+                    ],
+                    [
+                        67,
+                        139
+                    ],
+                    [
+                        74,
+                        140
+                    ],
+                    [
+                        76,
+                        145
+                    ],
+                    [
+                        71,
+                        149
+                    ],
+                    [
+                        75,
+                        153
+                    ],
+                    [
+                        71,
+                        160
+                    ],
+                    [
+                        66,
+                        166
+                    ],
+                    [
+                        59,
+                        176
+                    ],
+                    [
+                        59,
+                        182
+                    ],
+                    [
+                        67,
+                        183
+                    ],
+                    [
+                        78,
+                        181
+                    ],
+                    [
+                        89,
+                        182
+                    ],
+                    [
+                        92,
+                        187
+                    ],
+                    [
+                        97,
+                        188
+                    ],
+                    [
+                        102,
+                        196
+                    ],
+                    [
+                        95,
+                        199
+                    ],
+                    [
+                        88,
+                        203
+                    ],
+                    [
+                        86,
+                        213
+                    ],
+                    [
+                        74,
+                        217
+                    ],
+                    [
+                        64,
+                        211
+                    ],
+                    [
+                        62,
+                        206
+                    ],
+                    [
+                        66,
+                        198
+                    ],
+                    [
+                        60,
+                        190
+                    ],
+                    [
+                        54,
+                        193
+                    ],
+                    [
+                        40,
+                        128
+                    ],
+                    [
+                        36,
+                        91
+                    ],
+                    [
+                        42,
+                        88
+                    ],
+                    [
+                        49,
+                        87
+                    ],
+                    [
+                        49,
+                        100
+                    ],
+                    [
+                        53,
+                        103
+                    ],
+                    [
+                        62,
+                        109
+                    ],
+                    [
+                        65,
+                        109
+                    ],
+                    [
+                        64,
+                        103
+                    ],
+                    [
+                        58,
+                        99
+                    ],
+                    [
+                        59,
+                        92
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758147,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T15:58:57.847Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        67,
+                        73
+                    ],
+                    [
+                        69,
+                        80
+                    ],
+                    [
+                        75,
+                        85
+                    ],
+                    [
+                        77,
+                        79
+                    ],
+                    [
+                        72,
+                        72
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758152,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T15:59:05.380Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        87,
+                        53
+                    ],
+                    [
+                        87,
+                        55
+                    ],
+                    [
+                        86,
+                        61
+                    ],
+                    [
+                        92,
+                        62
+                    ],
+                    [
+                        98,
+                        61
+                    ],
+                    [
+                        94,
+                        56
+                    ],
+                    [
+                        94,
+                        52
+                    ],
+                    [
+                        91,
+                        51
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758160,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T15:59:21.050Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        37,
+                        56
+                    ],
+                    [
+                        43,
+                        55
+                    ],
+                    [
+                        49,
+                        47
+                    ],
+                    [
+                        57,
+                        46
+                    ],
+                    [
+                        63,
+                        45
+                    ],
+                    [
+                        70,
+                        42
+                    ],
+                    [
+                        68,
+                        34
+                    ],
+                    [
+                        62,
+                        31
+                    ],
+                    [
+                        50,
+                        23
+                    ],
+                    [
+                        46,
+                        23
+                    ],
+                    [
+                        42,
+                        19
+                    ],
+                    [
+                        43,
+                        12
+                    ],
+                    [
+                        43,
+                        9
+                    ],
+                    [
+                        35,
+                        2
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758165,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T15:59:34.652Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        70,
+                        274
+                    ],
+                    [
+                        63,
+                        274
+                    ],
+                    [
+                        63,
+                        281
+                    ],
+                    [
+                        63,
+                        287
+                    ],
+                    [
+                        62,
+                        293
+                    ],
+                    [
+                        64,
+                        298
+                    ],
+                    [
+                        67,
+                        303
+                    ],
+                    [
+                        77,
+                        304
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758171,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T15:59:45.610Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        35,
+                        250
+                    ],
+                    [
+                        39,
+                        253
+                    ],
+                    [
+                        45,
+                        255
+                    ],
+                    [
+                        50,
+                        254
+                    ],
+                    [
+                        47,
+                        250
+                    ],
+                    [
+                        39,
+                        249
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758173,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T15:59:50.746Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        59,
+                        283
+                    ],
+                    [
+                        52,
+                        280
+                    ],
+                    [
+                        42,
+                        282
+                    ],
+                    [
+                        46,
+                        287
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758176,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T15:59:55.097Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        39,
+                        310
+                    ],
+                    [
+                        38,
+                        301
+                    ],
+                    [
+                        43,
+                        301
+                    ],
+                    [
+                        47,
+                        305
+                    ],
+                    [
+                        44,
+                        307
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758180,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:00:00.530Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        50,
+                        327
+                    ],
+                    [
+                        55,
+                        328
+                    ],
+                    [
+                        56,
+                        323
+                    ],
+                    [
+                        52,
+                        322
+                    ],
+                    [
+                        48,
+                        323
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758181,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:00:04.639Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        17,
+                        346
+                    ],
+                    [
+                        21,
+                        351
+                    ],
+                    [
+                        20,
+                        354
+                    ],
+                    [
+                        30,
+                        352
+                    ],
+                    [
+                        28,
+                        347
+                    ],
+                    [
+                        22,
+                        344
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758186,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:00:10.916Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        106,
+                        405
+                    ],
+                    [
+                        115,
+                        409
+                    ],
+                    [
+                        114,
+                        402
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758187,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:00:13.683Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        94,
+                        422
+                    ],
+                    [
+                        101,
+                        429
+                    ],
+                    [
+                        108,
+                        428
+                    ],
+                    [
+                        102,
+                        424
+                    ],
+                    [
+                        104,
+                        419
+                    ],
+                    [
+                        99,
+                        417
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758189,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:00:17.872Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        121,
+                        414
+                    ],
+                    [
+                        125,
+                        421
+                    ],
+                    [
+                        142,
+                        424
+                    ],
+                    [
+                        150,
+                        424
+                    ],
+                    [
+                        154,
+                        422
+                    ],
+                    [
+                        152,
+                        417
+                    ],
+                    [
+                        144,
+                        420
+                    ],
+                    [
+                        135,
+                        418
+                    ],
+                    [
+                        129,
+                        413
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758192,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:00:24.752Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        182,
+                        425
+                    ],
+                    [
+                        176,
+                        427
+                    ],
+                    [
+                        177,
+                        432
+                    ],
+                    [
+                        174,
+                        434
+                    ],
+                    [
+                        168,
+                        436
+                    ],
+                    [
+                        187,
+                        437
+                    ],
+                    [
+                        191,
+                        432
+                    ],
+                    [
+                        188,
+                        426
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758198,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:00:37.293Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        155,
+                        437
+                    ],
+                    [
+                        139,
+                        437
+                    ],
+                    [
+                        148,
+                        434
+                    ],
+                    [
+                        145,
+                        431
+                    ],
+                    [
+                        140,
+                        431
+                    ],
+                    [
+                        137,
+                        434
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758203,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:00:43.829Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        128,
+                        437
+                    ],
+                    [
+                        97,
+                        437
+                    ],
+                    [
+                        100,
+                        435
+                    ],
+                    [
+                        106,
+                        432
+                    ],
+                    [
+                        112,
+                        435
+                    ],
+                    [
+                        116,
+                        433
+                    ],
+                    [
+                        119,
+                        431
+                    ],
+                    [
+                        123,
+                        435
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758206,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:00:50.107Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        25,
+                        407
+                    ],
+                    [
+                        30,
+                        406
+                    ],
+                    [
+                        32,
+                        400
+                    ],
+                    [
+                        27,
+                        401
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758211,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:00:59.796Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        120,
+                        73
+                    ],
+                    [
+                        122,
+                        78
+                    ],
+                    [
+                        124,
+                        83
+                    ],
+                    [
+                        127,
+                        84
+                    ],
+                    [
+                        128,
+                        80
+                    ],
+                    [
+                        126,
+                        75
+                    ],
+                    [
+                        124,
+                        71
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758216,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:01:10.263Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        131,
+                        80
+                    ],
+                    [
+                        128,
+                        61
+                    ],
+                    [
+                        130,
+                        57
+                    ],
+                    [
+                        129,
+                        51
+                    ],
+                    [
+                        126,
+                        47
+                    ],
+                    [
+                        123,
+                        43
+                    ],
+                    [
+                        122,
+                        38
+                    ],
+                    [
+                        127,
+                        40
+                    ],
+                    [
+                        127,
+                        34
+                    ],
+                    [
+                        130,
+                        36
+                    ],
+                    [
+                        135,
+                        38
+                    ],
+                    [
+                        138,
+                        40
+                    ],
+                    [
+                        138,
+                        44
+                    ],
+                    [
+                        135,
+                        51
+                    ],
+                    [
+                        135,
+                        55
+                    ],
+                    [
+                        133,
+                        65
+                    ],
+                    [
+                        132,
+                        69
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758223,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:01:27.254Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        134,
+                        138
+                    ],
+                    [
+                        140,
+                        142
+                    ],
+                    [
+                        145,
+                        151
+                    ],
+                    [
+                        150,
+                        165
+                    ],
+                    [
+                        148,
+                        175
+                    ],
+                    [
+                        148,
+                        189
+                    ],
+                    [
+                        150,
+                        196
+                    ],
+                    [
+                        154,
+                        197
+                    ],
+                    [
+                        155,
+                        190
+                    ],
+                    [
+                        159,
+                        195
+                    ],
+                    [
+                        157,
+                        204
+                    ],
+                    [
+                        149,
+                        212
+                    ],
+                    [
+                        148,
+                        219
+                    ],
+                    [
+                        143,
+                        219
+                    ],
+                    [
+                        138,
+                        215
+                    ],
+                    [
+                        142,
+                        201
+                    ],
+                    [
+                        141,
+                        190
+                    ],
+                    [
+                        141,
+                        182
+                    ],
+                    [
+                        139,
+                        171
+                    ],
+                    [
+                        139,
+                        160
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758230,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:01:45.785Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        138,
+                        355
+                    ],
+                    [
+                        143,
+                        360
+                    ],
+                    [
+                        147,
+                        363
+                    ],
+                    [
+                        151,
+                        354
+                    ],
+                    [
+                        154,
+                        352
+                    ],
+                    [
+                        155,
+                        348
+                    ],
+                    [
+                        148,
+                        347
+                    ],
+                    [
+                        143,
+                        350
+                    ],
+                    [
+                        138,
+                        350
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758232,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:01:50.592Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        161,
+                        347
+                    ],
+                    [
+                        168,
+                        352
+                    ],
+                    [
+                        178,
+                        355
+                    ],
+                    [
+                        182,
+                        358
+                    ],
+                    [
+                        187,
+                        356
+                    ],
+                    [
+                        182,
+                        352
+                    ],
+                    [
+                        177,
+                        351
+                    ],
+                    [
+                        172,
+                        347
+                    ],
+                    [
+                        169,
+                        346
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758235,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:01:55.662Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        234,
+                        314
+                    ],
+                    [
+                        246,
+                        310
+                    ],
+                    [
+                        251,
+                        315
+                    ],
+                    [
+                        258,
+                        326
+                    ],
+                    [
+                        262,
+                        330
+                    ],
+                    [
+                        264,
+                        325
+                    ],
+                    [
+                        265,
+                        320
+                    ],
+                    [
+                        261,
+                        313
+                    ],
+                    [
+                        259,
+                        307
+                    ],
+                    [
+                        254,
+                        299
+                    ],
+                    [
+                        253,
+                        294
+                    ],
+                    [
+                        250,
+                        290
+                    ],
+                    [
+                        246,
+                        292
+                    ],
+                    [
+                        239,
+                        286
+                    ],
+                    [
+                        235,
+                        283
+                    ],
+                    [
+                        229,
+                        283
+                    ],
+                    [
+                        222,
+                        284
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758242,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:02:13.159Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        170,
+                        86
+                    ],
+                    [
+                        161,
+                        97
+                    ],
+                    [
+                        163,
+                        100
+                    ],
+                    [
+                        171,
+                        102
+                    ],
+                    [
+                        174,
+                        102
+                    ],
+                    [
+                        173,
+                        92
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758244,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:02:20.176Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        174,
+                        55
+                    ],
+                    [
+                        182,
+                        59
+                    ],
+                    [
+                        186,
+                        56
+                    ],
+                    [
+                        180,
+                        51
+                    ],
+                    [
+                        177,
+                        49
+                    ],
+                    [
+                        171,
+                        49
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758247,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:02:24.987Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        209,
+                        27
+                    ],
+                    [
+                        217,
+                        30
+                    ],
+                    [
+                        213,
+                        24
+                    ],
+                    [
+                        214,
+                        20
+                    ],
+                    [
+                        210,
+                        22
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758251,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:02:30.532Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        217,
+                        197
+                    ],
+                    [
+                        224,
+                        213
+                    ],
+                    [
+                        226,
+                        223
+                    ],
+                    [
+                        232,
+                        229
+                    ],
+                    [
+                        236,
+                        226
+                    ],
+                    [
+                        240,
+                        220
+                    ],
+                    [
+                        237,
+                        215
+                    ],
+                    [
+                        232,
+                        206
+                    ],
+                    [
+                        231,
+                        200
+                    ],
+                    [
+                        228,
+                        196
+                    ],
+                    [
+                        223,
+                        194
+                    ],
+                    [
+                        218,
+                        191
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758253,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:02:37.206Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        248,
+                        182
+                    ],
+                    [
+                        251,
+                        192
+                    ],
+                    [
+                        254,
+                        201
+                    ],
+                    [
+                        257,
+                        211
+                    ],
+                    [
+                        258,
+                        220
+                    ],
+                    [
+                        261,
+                        225
+                    ],
+                    [
+                        252,
+                        218
+                    ],
+                    [
+                        249,
+                        216
+                    ],
+                    [
+                        248,
+                        211
+                    ],
+                    [
+                        242,
+                        208
+                    ],
+                    [
+                        244,
+                        200
+                    ],
+                    [
+                        242,
+                        197
+                    ],
+                    [
+                        241,
+                        191
+                    ],
+                    [
+                        241,
+                        185
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758259,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:02:45.804Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        236,
+                        111
+                    ],
+                    [
+                        245,
+                        165
+                    ],
+                    [
+                        247,
+                        162
+                    ],
+                    [
+                        247,
+                        153
+                    ],
+                    [
+                        252,
+                        152
+                    ],
+                    [
+                        255,
+                        151
+                    ],
+                    [
+                        259,
+                        148
+                    ],
+                    [
+                        254,
+                        147
+                    ],
+                    [
+                        251,
+                        146
+                    ],
+                    [
+                        248,
+                        142
+                    ],
+                    [
+                        248,
+                        137
+                    ],
+                    [
+                        249,
+                        133
+                    ],
+                    [
+                        253,
+                        128
+                    ],
+                    [
+                        254,
+                        125
+                    ],
+                    [
+                        248,
+                        119
+                    ],
+                    [
+                        250,
+                        115
+                    ],
+                    [
+                        248,
+                        111
+                    ],
+                    [
+                        247,
+                        108
+                    ],
+                    [
+                        246,
+                        113
+                    ],
+                    [
+                        245,
+                        117
+                    ],
+                    [
+                        242,
+                        117
+                    ],
+                    [
+                        243,
+                        109
+                    ],
+                    [
+                        242,
+                        104
+                    ],
+                    [
+                        240,
+                        100
+                    ],
+                    [
+                        238,
+                        106
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758267,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:03:03.543Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        260,
+                        198
+                    ],
+                    [
+                        264,
+                        196
+                    ],
+                    [
+                        262,
+                        191
+                    ],
+                    [
+                        261,
+                        186
+                    ],
+                    [
+                        262,
+                        183
+                    ],
+                    [
+                        266,
+                        180
+                    ],
+                    [
+                        264,
+                        173
+                    ],
+                    [
+                        261,
+                        176
+                    ],
+                    [
+                        257,
+                        179
+                    ],
+                    [
+                        256,
+                        183
+                    ],
+                    [
+                        255,
+                        185
+                    ],
+                    [
+                        259,
+                        188
+                    ],
+                    [
+                        255,
+                        191
+                    ],
+                    [
+                        255,
+                        193
+                    ],
+                    [
+                        257,
+                        195
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758277,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:03:19.517Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        198,
+                        350
+                    ],
+                    [
+                        204,
+                        350
+                    ],
+                    [
+                        211,
+                        348
+                    ],
+                    [
+                        217,
+                        348
+                    ],
+                    [
+                        217,
+                        349
+                    ],
+                    [
+                        212,
+                        351
+                    ],
+                    [
+                        212,
+                        355
+                    ],
+                    [
+                        210,
+                        356
+                    ],
+                    [
+                        208,
+                        353
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758280,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:03:26.731Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        189,
+                        415
+                    ],
+                    [
+                        195,
+                        417
+                    ],
+                    [
+                        200,
+                        415
+                    ],
+                    [
+                        208,
+                        417
+                    ],
+                    [
+                        205,
+                        412
+                    ],
+                    [
+                        196,
+                        412
+                    ],
+                    [
+                        192,
+                        411
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758283,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:03:30.569Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        186,
+                        396
+                    ],
+                    [
+                        189,
+                        395
+                    ],
+                    [
+                        192,
+                        396
+                    ],
+                    [
+                        189,
+                        390
+                    ],
+                    [
+                        186,
+                        390
+                    ],
+                    [
+                        185,
+                        393
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758285,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:03:37.644Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        303,
+                        318
+                    ],
+                    [
+                        304,
+                        312
+                    ],
+                    [
+                        312,
+                        316
+                    ],
+                    [
+                        307,
+                        315
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758290,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:03:48.802Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        402,
+                        350
+                    ],
+                    [
+                        409,
+                        349
+                    ],
+                    [
+                        415,
+                        350
+                    ],
+                    [
+                        424,
+                        354
+                    ],
+                    [
+                        430,
+                        353
+                    ],
+                    [
+                        438,
+                        355
+                    ],
+                    [
+                        443,
+                        359
+                    ],
+                    [
+                        441,
+                        353
+                    ],
+                    [
+                        435,
+                        351
+                    ],
+                    [
+                        429,
+                        348
+                    ],
+                    [
+                        423,
+                        345
+                    ],
+                    [
+                        419,
+                        347
+                    ],
+                    [
+                        415,
+                        344
+                    ],
+                    [
+                        411,
+                        347
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758292,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:03:57.705Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        441,
+                        381
+                    ],
+                    [
+                        450,
+                        388
+                    ],
+                    [
+                        457,
+                        393
+                    ],
+                    [
+                        457,
+                        396
+                    ],
+                    [
+                        458,
+                        402
+                    ],
+                    [
+                        469,
+                        400
+                    ],
+                    [
+                        467,
+                        397
+                    ],
+                    [
+                        465,
+                        392
+                    ],
+                    [
+                        459,
+                        390
+                    ],
+                    [
+                        453,
+                        386
+                    ],
+                    [
+                        449,
+                        381
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758296,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:04:05.429Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        446,
+                        375
+                    ],
+                    [
+                        458,
+                        385
+                    ],
+                    [
+                        456,
+                        379
+                    ],
+                    [
+                        451,
+                        374
+                    ],
+                    [
+                        447,
+                        372
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758306,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:04:24.488Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        507,
+                        368
+                    ],
+                    [
+                        511,
+                        374
+                    ],
+                    [
+                        518,
+                        380
+                    ],
+                    [
+                        524,
+                        383
+                    ],
+                    [
+                        530,
+                        388
+                    ],
+                    [
+                        541,
+                        394
+                    ],
+                    [
+                        549,
+                        396
+                    ],
+                    [
+                        537,
+                        386
+                    ],
+                    [
+                        533,
+                        382
+                    ],
+                    [
+                        533,
+                        379
+                    ],
+                    [
+                        537,
+                        377
+                    ],
+                    [
+                        536,
+                        373
+                    ],
+                    [
+                        531,
+                        372
+                    ],
+                    [
+                        527,
+                        370
+                    ],
+                    [
+                        526,
+                        374
+                    ],
+                    [
+                        521,
+                        372
+                    ],
+                    [
+                        519,
+                        368
+                    ],
+                    [
+                        524,
+                        367
+                    ],
+                    [
+                        516,
+                        365
+                    ],
+                    [
+                        511,
+                        364
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758330,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:05:20.662Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        558,
+                        356
+                    ],
+                    [
+                        581,
+                        371
+                    ],
+                    [
+                        578,
+                        366
+                    ],
+                    [
+                        574,
+                        362
+                    ],
+                    [
+                        569,
+                        358
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758333,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:05:25.244Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        517,
+                        345
+                    ],
+                    [
+                        520,
+                        347
+                    ],
+                    [
+                        530,
+                        349
+                    ],
+                    [
+                        531,
+                        347
+                    ],
+                    [
+                        527,
+                        345
+                    ],
+                    [
+                        524,
+                        344
+                    ],
+                    [
+                        521,
+                        342
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758340,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:05:34.482Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        316,
+                        132
+                    ],
+                    [
+                        310,
+                        131
+                    ],
+                    [
+                        303,
+                        129
+                    ],
+                    [
+                        295,
+                        130
+                    ],
+                    [
+                        289,
+                        127
+                    ],
+                    [
+                        287,
+                        128
+                    ],
+                    [
+                        289,
+                        134
+                    ],
+                    [
+                        296,
+                        140
+                    ],
+                    [
+                        298,
+                        142
+                    ],
+                    [
+                        307,
+                        148
+                    ],
+                    [
+                        310,
+                        151
+                    ],
+                    [
+                        313,
+                        151
+                    ],
+                    [
+                        317,
+                        155
+                    ],
+                    [
+                        312,
+                        160
+                    ],
+                    [
+                        308,
+                        159
+                    ],
+                    [
+                        304,
+                        162
+                    ],
+                    [
+                        306,
+                        166
+                    ],
+                    [
+                        311,
+                        168
+                    ],
+                    [
+                        313,
+                        170
+                    ],
+                    [
+                        311,
+                        176
+                    ],
+                    [
+                        327,
+                        197
+                    ],
+                    [
+                        332,
+                        194
+                    ],
+                    [
+                        331,
+                        189
+                    ],
+                    [
+                        330,
+                        186
+                    ],
+                    [
+                        330,
+                        176
+                    ],
+                    [
+                        331,
+                        170
+                    ],
+                    [
+                        326,
+                        168
+                    ],
+                    [
+                        324,
+                        171
+                    ],
+                    [
+                        322,
+                        172
+                    ],
+                    [
+                        323,
+                        165
+                    ],
+                    [
+                        328,
+                        163
+                    ],
+                    [
+                        328,
+                        159
+                    ],
+                    [
+                        324,
+                        155
+                    ],
+                    [
+                        321,
+                        152
+                    ],
+                    [
+                        320,
+                        148
+                    ],
+                    [
+                        319,
+                        144
+                    ],
+                    [
+                        319,
+                        141
+                    ],
+                    [
+                        321,
+                        138
+                    ],
+                    [
+                        325,
+                        141
+                    ],
+                    [
+                        327,
+                        137
+                    ],
+                    [
+                        323,
+                        132
+                    ],
+                    [
+                        321,
+                        126
+                    ],
+                    [
+                        320,
+                        123
+                    ],
+                    [
+                        321,
+                        121
+                    ],
+                    [
+                        320,
+                        116
+                    ],
+                    [
+                        320,
+                        110
+                    ],
+                    [
+                        320,
+                        108
+                    ],
+                    [
+                        318,
+                        107
+                    ],
+                    [
+                        314,
+                        107
+                    ],
+                    [
+                        309,
+                        107
+                    ],
+                    [
+                        306,
+                        109
+                    ],
+                    [
+                        308,
+                        112
+                    ],
+                    [
+                        312,
+                        116
+                    ],
+                    [
+                        316,
+                        120
+                    ],
+                    [
+                        317,
+                        123
+                    ],
+                    [
+                        317,
+                        127
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758369,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:06:48.568Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        334,
+                        199
+                    ],
+                    [
+                        340,
+                        207
+                    ],
+                    [
+                        344,
+                        212
+                    ],
+                    [
+                        345,
+                        217
+                    ],
+                    [
+                        346,
+                        226
+                    ],
+                    [
+                        342,
+                        221
+                    ],
+                    [
+                        338,
+                        215
+                    ],
+                    [
+                        335,
+                        212
+                    ],
+                    [
+                        334,
+                        206
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758373,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:06:56.979Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        360,
+                        180
+                    ],
+                    [
+                        363,
+                        183
+                    ],
+                    [
+                        366,
+                        181
+                    ],
+                    [
+                        366,
+                        177
+                    ],
+                    [
+                        366,
+                        172
+                    ],
+                    [
+                        362,
+                        176
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758389,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:07:42.003Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        384,
+                        211
+                    ],
+                    [
+                        384,
+                        219
+                    ],
+                    [
+                        388,
+                        219
+                    ],
+                    [
+                        390,
+                        216
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758392,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:07:47.042Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        349,
+                        227
+                    ],
+                    [
+                        354,
+                        232
+                    ],
+                    [
+                        357,
+                        233
+                    ],
+                    [
+                        357,
+                        229
+                    ],
+                    [
+                        355,
+                        225
+                    ],
+                    [
+                        352,
+                        224
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758394,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:07:51.412Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        406,
+                        244
+                    ],
+                    [
+                        407,
+                        249
+                    ],
+                    [
+                        411,
+                        250
+                    ],
+                    [
+                        411,
+                        247
+                    ],
+                    [
+                        410,
+                        244
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758397,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:08:03.222Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        370,
+                        58
+                    ],
+                    [
+                        367,
+                        63
+                    ],
+                    [
+                        367,
+                        68
+                    ],
+                    [
+                        366,
+                        71
+                    ],
+                    [
+                        363,
+                        75
+                    ],
+                    [
+                        368,
+                        82
+                    ],
+                    [
+                        370,
+                        85
+                    ],
+                    [
+                        374,
+                        89
+                    ],
+                    [
+                        377,
+                        92
+                    ],
+                    [
+                        380,
+                        83
+                    ],
+                    [
+                        380,
+                        80
+                    ],
+                    [
+                        379,
+                        78
+                    ],
+                    [
+                        380,
+                        74
+                    ],
+                    [
+                        377,
+                        71
+                    ],
+                    [
+                        379,
+                        69
+                    ],
+                    [
+                        375,
+                        67
+                    ],
+                    [
+                        373,
+                        61
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758403,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:08:16.367Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        362,
+                        93
+                    ],
+                    [
+                        364,
+                        96
+                    ],
+                    [
+                        368,
+                        97
+                    ],
+                    [
+                        373,
+                        100
+                    ],
+                    [
+                        375,
+                        100
+                    ],
+                    [
+                        372,
+                        97
+                    ],
+                    [
+                        370,
+                        96
+                    ],
+                    [
+                        368,
+                        92
+                    ],
+                    [
+                        366,
+                        90
+                    ],
+                    [
+                        364,
+                        89
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758412,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:08:33.547Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        483,
+                        301
+                    ],
+                    [
+                        492,
+                        311
+                    ],
+                    [
+                        494,
+                        311
+                    ],
+                    [
+                        491,
+                        304
+                    ],
+                    [
+                        486,
+                        298
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758484,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:11:57.612Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        460,
+                        108
+                    ],
+                    [
+                        468,
+                        110
+                    ],
+                    [
+                        468,
+                        117
+                    ],
+                    [
+                        469,
+                        123
+                    ],
+                    [
+                        465,
+                        122
+                    ],
+                    [
+                        462,
+                        122
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758490,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:12:07.304Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        468,
+                        137
+                    ],
+                    [
+                        472,
+                        143
+                    ],
+                    [
+                        473,
+                        142
+                    ],
+                    [
+                        473,
+                        137
+                    ],
+                    [
+                        476,
+                        136
+                    ],
+                    [
+                        474,
+                        134
+                    ],
+                    [
+                        474,
+                        130
+                    ],
+                    [
+                        470,
+                        129
+                    ],
+                    [
+                        468,
+                        132
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758493,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:12:17.757Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        482,
+                        162
+                    ],
+                    [
+                        485,
+                        169
+                    ],
+                    [
+                        488,
+                        172
+                    ],
+                    [
+                        490,
+                        170
+                    ],
+                    [
+                        493,
+                        171
+                    ],
+                    [
+                        492,
+                        167
+                    ],
+                    [
+                        492,
+                        165
+                    ],
+                    [
+                        492,
+                        161
+                    ],
+                    [
+                        491,
+                        158
+                    ],
+                    [
+                        489,
+                        157
+                    ],
+                    [
+                        487,
+                        155
+                    ],
+                    [
+                        486,
+                        154
+                    ],
+                    [
+                        484,
+                        152
+                    ],
+                    [
+                        481,
+                        154
+                    ],
+                    [
+                        481,
+                        156
+                    ],
+                    [
+                        480,
+                        158
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758498,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:12:29.166Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        472,
+                        168
+                    ],
+                    [
+                        476,
+                        173
+                    ],
+                    [
+                        477,
+                        171
+                    ],
+                    [
+                        478,
+                        168
+                    ],
+                    [
+                        478,
+                        167
+                    ],
+                    [
+                        475,
+                        166
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758500,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:12:33.643Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        494,
+                        183
+                    ],
+                    [
+                        496,
+                        180
+                    ],
+                    [
+                        499,
+                        180
+                    ],
+                    [
+                        502,
+                        182
+                    ],
+                    [
+                        503,
+                        184
+                    ],
+                    [
+                        501,
+                        186
+                    ],
+                    [
+                        501,
+                        188
+                    ],
+                    [
+                        502,
+                        190
+                    ],
+                    [
+                        503,
+                        191
+                    ],
+                    [
+                        504,
+                        194
+                    ],
+                    [
+                        503,
+                        195
+                    ],
+                    [
+                        500,
+                        196
+                    ],
+                    [
+                        499,
+                        193
+                    ],
+                    [
+                        496,
+                        190
+                    ],
+                    [
+                        494,
+                        187
+                    ],
+                    [
+                        494,
+                        185
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758508,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:12:47.917Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        512,
+                        198
+                    ],
+                    [
+                        519,
+                        197
+                    ],
+                    [
+                        521,
+                        200
+                    ],
+                    [
+                        524,
+                        203
+                    ],
+                    [
+                        526,
+                        204
+                    ],
+                    [
+                        528,
+                        207
+                    ],
+                    [
+                        525,
+                        208
+                    ],
+                    [
+                        522,
+                        207
+                    ],
+                    [
+                        518,
+                        207
+                    ],
+                    [
+                        515,
+                        204
+                    ],
+                    [
+                        513,
+                        202
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758532,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:13:25.754Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        488,
+                        47
+                    ],
+                    [
+                        491,
+                        45
+                    ],
+                    [
+                        494,
+                        47
+                    ],
+                    [
+                        495,
+                        52
+                    ],
+                    [
+                        495,
+                        55
+                    ],
+                    [
+                        492,
+                        59
+                    ],
+                    [
+                        489,
+                        61
+                    ],
+                    [
+                        487,
+                        59
+                    ],
+                    [
+                        485,
+                        56
+                    ],
+                    [
+                        486,
+                        51
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758538,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:13:39.562Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        475,
+                        6
+                    ],
+                    [
+                        474,
+                        10
+                    ],
+                    [
+                        472,
+                        14
+                    ],
+                    [
+                        476,
+                        14
+                    ],
+                    [
+                        479,
+                        12
+                    ],
+                    [
+                        483,
+                        20
+                    ],
+                    [
+                        486,
+                        28
+                    ],
+                    [
+                        487,
+                        33
+                    ],
+                    [
+                        484,
+                        38
+                    ],
+                    [
+                        481,
+                        39
+                    ],
+                    [
+                        478,
+                        40
+                    ],
+                    [
+                        477,
+                        37
+                    ],
+                    [
+                        478,
+                        34
+                    ],
+                    [
+                        480,
+                        31
+                    ],
+                    [
+                        481,
+                        27
+                    ],
+                    [
+                        476,
+                        28
+                    ],
+                    [
+                        473,
+                        28
+                    ],
+                    [
+                        473,
+                        26
+                    ],
+                    [
+                        475,
+                        23
+                    ],
+                    [
+                        473,
+                        22
+                    ],
+                    [
+                        471,
+                        20
+                    ],
+                    [
+                        467,
+                        11
+                    ],
+                    [
+                        467,
+                        8
+                    ],
+                    [
+                        470,
+                        6
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758560,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:14:20.449Z",
+            "updatedAt": "2020-05-15T16:14:29.405Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        532,
+                        67
+                    ],
+                    [
+                        534,
+                        66
+                    ],
+                    [
+                        537,
+                        67
+                    ],
+                    [
+                        539,
+                        66
+                    ],
+                    [
+                        536,
+                        63
+                    ],
+                    [
+                        532,
+                        61
+                    ],
+                    [
+                        530,
+                        63
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 446758564,
+            "classId": 1485631,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "tug85997@temple.edu",
+            "createdAt": "2020-05-15T16:14:29.095Z",
+            "updatedAt": "2020-05-15T16:14:42.636Z",
+            "tags": [],
+            "classTitle": "Corrosion",
+            "points": {
+                "exterior": [
+                    [
+                        571,
+                        67
+                    ],
+                    [
+                        573,
+                        75
+                    ],
+                    [
+                        577,
+                        80
+                    ],
+                    [
+                        582,
+                        85
+                    ],
+                    [
+                        580,
+                        80
+                    ],
+                    [
+                        583,
+                        76
+                    ],
+                    [
+                        584,
+                        73
+                    ],
+                    [
+                        580,
+                        72
+                    ],
+                    [
+                        579,
+                        70
+                    ],
+                    [
+                        579,
+                        67
+                    ],
+                    [
+                        575,
+                        69
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
