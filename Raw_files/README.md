@@ -7,8 +7,8 @@ Each folder is named with the number of images labeled inside of it ("Corrosion 
 Each folder contains:
 
 1. **subfolder**
-2. **meta.json** file
-3. **obj_class_to_machine_color.json** file
+2. **meta.json** file: contains metadata about the polygons used for annotations in json object format.
+3. **obj_class_to_machine_color.json** file: contains metadata in json object format. This may be part of a feature in Supervise.ly that was not used.
 
 The subfolder contains the following folders:
 
