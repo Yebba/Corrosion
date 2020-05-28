@@ -1,0 +1,11 @@
+{
+    "classes": [
+        {
+            "title": "Corrosion",
+            "shape": "polygon",
+            "color": "#BD10E0",
+            "geometry_config": {}
+        }
+    ],
+    "tags": []
+}
